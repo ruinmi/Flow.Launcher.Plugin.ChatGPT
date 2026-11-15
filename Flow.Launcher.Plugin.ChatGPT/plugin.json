@@ -4,7 +4,7 @@
     "Name": "ChatGPT",
     "Description": "Automatically open ChatGPT in the browser with your prompt",
     "Author": "ruinmi",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Language": "csharp",
     "Website": "https://github.com/ruinmi/Flow.Launcher.Plugin.ChatGPT",
     "IcoPath": "Images\\app.ico",
